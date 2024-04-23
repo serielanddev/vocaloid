@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "vocaloid"
 include(":app")
+include(":vocaloid")
