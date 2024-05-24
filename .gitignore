@@ -16,6 +16,8 @@
 local.properties
 gradle.properties
 .idea/deploymentTargetDropDown.xml
+.idea/deploymentTargetSelector.xml
+.idea/other.xml
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/androidstudio
